@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "db78651eb5f6a82c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d426a89b798e59ba",
+        "type": "tabs",
+        "dimension": 31.34517766497462,
+        "children": [
+          {
+            "id": "6f7d5260807326f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM-Wiki/raw/2026-04-15/001-channel-sourceplugintelegramtelegra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "001-channel-sourceplugintelegramtelegra"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f103820d56ffea6",
+        "type": "tabs",
+        "dimension": 68.65482233502537,
+        "children": [
+          {
+            "id": "bf43317a001d39dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM-Wiki/raw/2026-04-17/013-channel-sourceplugintelegramtelegra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "013-channel-sourceplugintelegramtelegra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1fcc93eea95f867",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee184dfa701f750c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2e9078691dc0d4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "f814a43b3ae35a60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9d87c44d4baedf14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2dd0580f144e8ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "857466b20c47788f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c83fdb602ab4ee3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "d1dc29119a252cff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "2e0b9b07b9145c36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9eeab2bf9fa2b18d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5f61e7e225cc5113",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "b2e9078691dc0d4f",
+  "lastOpenFiles": [
+    "LLM-Wiki/raw/2026-04-17/022-localcommandcaveatcaveat-the-messag.md",
+    "LLM-Wiki/raw/2026-04-17/021-localcommandcaveatcaveat-the-messag.md",
+    "LLM-Wiki/raw/2026-04-17/020-localcommandcaveatcaveat-the-messag.md",
+    "LLM-Wiki/raw/2026-04-17/019-localcommandcaveatcaveat-the-messag.md",
+    "LLM-Wiki/wiki/meta-instruction-local-command-procedural-guidance.md",
+    "LLM-Wiki/raw/failure/202604170715.md",
+    "LLM-Wiki/raw/2026-04-17/018-localcommandcaveatcaveat-the-messag.md",
+    "LLM-Wiki/raw/2026-04-17/017-localcommandcaveatcaveat-the-messag.md",
+    "LLM-Wiki/raw/2026-04-17/016-localcommandcaveatcaveat-the-messag.md",
+    "LLM-Wiki/wiki/system-caveat-local-command-metadata.md",
+    "LLM-Wiki/raw/failure/202604170709.md",
+    "LLM-Wiki/raw/2026-04-17/015-localcommandcaveatcaveat-the-messag.md",
+    "LLM-Wiki/raw/2026-04-17/014-channel-sourceplugintelegramtelegra.md",
+    "LLM-Wiki/raw/success/202604151713.md",
+    "LLM-Wiki/raw/success/202604151138.md",
+    "LLM-Wiki/raw/success/202604151007.md",
+    "LLM-Wiki/raw/success/202604151006.md",
+    "LLM-Wiki/raw/success/202604150926.md",
+    "LLM-Wiki/raw/success/202604150923.md",
+    "LLM-Wiki/raw/success/202604150811.md",
+    "LLM-Wiki/raw/success/202604150807.md",
+    "LLM-Wiki/raw/success/202604150806.md",
+    "Welcome.md",
+    "LLM-Wiki/wiki/위치설정-모드변경-기술지원.md",
+    "LLM-Wiki/raw/2026-04-16/130-channel-sourceplugintelegramtelegra.md",
+    "LLM-Wiki/raw/2026-04-16/129-channel-sourceplugintelegramtelegra.md",
+    "LLM-Wiki/raw/2026-04-16",
+    "LLM-Wiki/raw/learning",
+    "LLM-Wiki/raw/failure",
+    "LLM-Wiki/raw/success"
+  ]
+}
